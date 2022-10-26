@@ -206,7 +206,7 @@ void sortFunction(int a)
 						layer[a].interMat[j-1][2]=0;
 					}
 
-					break; //because we found a match, need to break the for loop ****************************** is it breaking the for??
+					break; //because we found a match, need to break the for loop
 
 				}//in case we dont find a match, we need keep running the matrix in the for loop
 
